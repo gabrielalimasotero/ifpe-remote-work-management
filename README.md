@@ -1,4 +1,4 @@
-### 💻 Gestão de Atividades do Trabalho Remoto  
+# 💻 Gestão de Atividades do Trabalho Remoto  
 ## Projeto do Instituto Federal de Educação, Ciência e Tecnologia de Pernambuco (IFPE)  
 
 ## 🎯 Objetivo do Projeto  
