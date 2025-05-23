@@ -1,40 +1,45 @@
-# 🎯 Projeto – Gestão de Atividades do Trabalho Remoto – IFPE
+💻 Gestão de Atividades do Trabalho Remoto  
+Projeto do Instituto Federal de Educação, Ciência e Tecnologia de Pernambuco (IFPE)  
+Curso: Sistemas de Informação  
 
-## 🏛️ Contexto
-Este projeto foi desenvolvido como parte da disciplina de **Planejamento e Gerenciamento de Projetos (PGP)** do **IFPE – Instituto Federal de Educação, Ciência e Tecnologia de Pernambuco**.
+🎯 Objetivo do Projeto  
+Este projeto é desenvolvido como parte da disciplina de **Planejamento e Gerenciamento de Projetos (PGP)** do IFPE. O objetivo é aplicar os conceitos de gestão de projetos na solução de um problema real enfrentado pela instituição, relacionado à gestão eficiente das atividades em regime de teletrabalho, conforme as diretrizes do **Decreto nº 11.072/2022** e do **Programa de Gestão (PGD)**.  
 
-O projeto busca propor uma solução para otimizar a **gestão das atividades de trabalho remoto no IFPE**, considerando os desafios enfrentados na integração de sistemas como o **SCOPI** (focado na gestão estratégica) e o **PGD – Programa de Gestão de Desempenho** (focado no acompanhamento do teletrabalho, conforme o Decreto nº 11.072/2022).
+📝 Descrição do Problema  
+O IFPE enfrenta desafios na gestão das atividades em trabalho remoto, especialmente devido à falta de integração entre o **PGD**, que controla as atividades e o desempenho do teletrabalho, e o **SCOPI**, que oferece uma visão mais estratégica e institucional, mas não possui API de entrada (input) para integração de dados.  
 
----
+Esse cenário gera **retrabalho**, pois os servidores precisam preencher as mesmas informações em dois sistemas diferentes. Além disso, a ausência de integração compromete a eficiência na gestão, a rastreabilidade dos dados e a tomada de decisões baseada em informações consolidadas.  
 
-## 🔍 Descrição do Problema
-Atualmente, os servidores precisam realizar lançamentos de informações em mais de um sistema (SCOPI e PGD), pois cada plataforma possui funcionalidades específicas e complementares.  
+🌟 Relevância  
+A ausência de uma integração funcional entre PGD e SCOPI impacta diretamente na produtividade, na qualidade da gestão e no cumprimento das diretrizes legais. Resolver esse problema significa:  
+- Reduzir retrabalho.  
+- Aumentar a eficiência administrativa.  
+- Melhorar a rastreabilidade e a transparência dos dados.  
+- Apoiar a sustentabilidade do modelo de trabalho híbrido no IFPE.  
 
-O **SCOPI** não possui API de entrada (input), impossibilitando integrações diretas para cadastro automático de atividades. Isso gera **retrabalho, perda de tempo e risco de inconsistências nos dados**, além de dificultar o acompanhamento eficiente das atividades.
+🔍 Impacto  
+- Necessidade de preencher dados manualmente em dois sistemas.  
+- Baixa eficiência no monitoramento dos planos de trabalho.  
+- Dificuldade na consolidação de informações operacionais e estratégicas.  
+- Riscos de descumprimento das regras do PGD.  
+- Perda de tempo, aumento de erros e insatisfação dos servidores.  
 
----
+🎯 Objetivos da Solução  
+- Desenvolver uma proposta de **base única de dados**, onde as atividades sejam registradas uma única vez.  
+- Implementar uma estratégia de **integração funcional**, utilizando ferramentas como planilhas inteligentes, dashboards externos e automações via RPA, para replicar informações de forma semiautomática no SCOPI.  
+- Facilitar o acompanhamento dos planos de trabalho e da execução das atividades, tanto para os servidores quanto para a alta gestão.  
+- Gerar dashboards e relatórios que consolidem dados do PGD e do SCOPI, promovendo melhor tomada de decisão.  
 
-## 🚀 Objetivo do Projeto
-Desenvolver uma proposta de integração funcional entre os sistemas **SCOPI** e **PGD**, com foco em:  
-- **Evitar o duplo preenchimento de informações.**  
-- **Centralizar os dados em uma base única.**  
-- Facilitar o acompanhamento dos planos de trabalho e da execução das atividades.  
-- Fornecer visões consolidadas para a alta gestão e para os servidores.
+📊 Estrutura de Pastas  
+O repositório está organizado em uma página principal, correspondente à disciplina de **Planejamento e Gerenciamento de Projetos (PGP)**, com as seguintes pastas:  
 
----
+- **Kickoff:** Planejamento Inicial do Projeto  
+- **1º Status Report:** Primeiro Relatório de Acompanhamento  
+- **2º Status Report:** Segundo Relatório de Acompanhamento  
+- **Entrega Final:** Documentação e consolidação dos resultados do projeto  
 
-## 🎯 Solução Proposta
-- **Criação de uma base única de dados**, onde as atividades são registradas uma única vez.  
-- Definição de processos para que os dados preenchidos alimentem tanto os requisitos legais do PGD quanto os controles estratégicos do SCOPI.  
-- Proposta de uso de **automação via RPA (Robotic Process Automation)** para preencher automaticamente o SCOPI a partir dessa base, contornando a ausência de API de entrada.  
-- Desenvolvimento de um **painel de gestão externo**, que integra e apresenta dados de forma clara e visual, facilitando a tomada de decisão.
-
----
-
-## 👥 Equipe
-- Victoria Luquet  
-- Victor Silva  
-- Vituriano Xisto  
-- Tiago Lima  
-- Gabriela Lima
+### 🔗 Para visualizar os artefatos de cada entrega:  
+1. Navegue até a pasta **PGP**.  
+2. Selecione a subpasta correspondente à entrega desejada (**Kickoff, 1º Status Report, 2º Status Report ou Entrega Final**).  
+3. Dentro de cada pasta, estão os documentos, apresentações e relatórios relacionados àquela etapa.  
 
