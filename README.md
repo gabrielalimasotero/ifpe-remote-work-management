@@ -1,5 +1,5 @@
 ### 💻 Gestão de Atividades do Trabalho Remoto  
-##Projeto do Instituto Federal de Educação, Ciência e Tecnologia de Pernambuco (IFPE)  
+## Projeto do Instituto Federal de Educação, Ciência e Tecnologia de Pernambuco (IFPE)  
 
 ## 🎯 Objetivo do Projeto  
 Este projeto é desenvolvido como parte da disciplina de **Planejamento e Gerenciamento de Projetos (PGP)** do IFPE. O objetivo é aplicar os conceitos de gestão de projetos na solução de um problema real enfrentado pela instituição, relacionado à gestão eficiente das atividades em regime de teletrabalho, conforme as diretrizes do **Decreto nº 11.072/2022** e do **Programa de Gestão (PGD)**.  
