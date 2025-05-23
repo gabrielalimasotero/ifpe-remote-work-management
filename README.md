@@ -36,9 +36,5 @@ Desenvolver uma proposta de integração funcional entre os sistemas **SCOPI** e
 - Victor Silva  
 - Vituriano Xisto  
 - Tiago Lima  
-- Gabriela Lima  
-
----
-
-## 📁 Estrutura do Repositório
+- Gabriela Lima
 
