@@ -55,8 +55,3 @@ Links de acesso às plataformas utilizadas pela equipe (Trello, GitHub, etc.).
 - Gabriela Lima  
 
 ---
-
-## 🔗 Links úteis
-- 🗂️ **Repositório principal:** [Inserir link aqui]  
-- 📋 **Quadro no Trello:** [Inserir link aqui]  
-
